@@ -356,6 +356,9 @@ Apache-2.0
 @firebase/logger
 Apache-2.0
 
+@firebase/storage
+Apache-2.0
+
 @firebase/util
 Apache-2.0
 
@@ -456,6 +459,8 @@ firebase/compat/auth
 firebase/compat/firestore
 
 firebase/firestore
+
+firebase/storage
 
 fizzy-ui-utils
 MIT
